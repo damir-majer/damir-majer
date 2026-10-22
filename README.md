@@ -12,6 +12,7 @@ My focus is the part AI does not take off your hands: understanding the code, ju
 
 **Public repositories**
 
+- [Agentic Engineering Periodic System](https://github.com/damir-majer/agentic-engineering-periodic-system): a map of the practices for building software with coding agents, each with an observable test you can check on your own code. Interactive table on [ase.academy](https://ase.academy/agentic-engineering/periodic-system/), CC BY 4.0
 - [ABAPKoans](https://github.com/damir-majer/ABAPKoans): learn ABAP by fixing failing unit tests, in the style of the Ruby Koans
 - [tsexample](https://github.com/damir-majer/tsexample): Example-Driven Development for TypeScript, with test dependency chains inspired by JExample
 
